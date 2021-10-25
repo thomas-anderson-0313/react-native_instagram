@@ -6,7 +6,7 @@ import {
   View
 } from 'react-native';
 
-import { Tabs } from './app/config/router.js';
+import Tabs from './app/config/router.js';
 
 export default function App () {
     return (
